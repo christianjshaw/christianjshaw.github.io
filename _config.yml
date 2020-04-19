@@ -19,7 +19,7 @@
 title: Chris Shaw
 email: christian.shaw@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Chris Shaw. Resources and blog posts on economics and other topics.
+  Resources and blog posts on economics and other topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ChristianShaw
