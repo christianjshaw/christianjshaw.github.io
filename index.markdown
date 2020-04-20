@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+# Welcome to the site!
+
+ I'm still building and getting used to it at the moment, but I'm hoping to include:
+
+- Resources I've made or found useful, aimed at students interested in studying economics 
+- Blog posts about projects I'm working on or ideas I've had
+
+We'll see how it goes!
