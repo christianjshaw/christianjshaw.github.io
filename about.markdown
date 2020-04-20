@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a final year Econometrics and Mathematical Economics student at the LSE. I'm interested in economic research, especially the economics of cities and regions. My dissertation is proving a wonderful excuse to  play with R and tidyverse to visualise and otherwise muck around with data. I'm on the lookout for a job with stimulating people and fun problems to solve.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm also interested in cycle touring, rock climbing, mountaineering, Star Wars, Hindu myths, Bayesian inference, trumpet playing, aviation, house plants, the London Underground, and peaty whiskies.  Plus all the normal stuff too.
 
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="https://i.imgur.com/zIUEXhV.jpg" width="400px" />
