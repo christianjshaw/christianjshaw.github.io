@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-
-# Home
 Welcome to the site!
  I'm still building and getting used to it at the moment, but I'm hoping to include:
 
